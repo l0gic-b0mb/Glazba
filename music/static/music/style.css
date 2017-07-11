@@ -1,0 +1,13 @@
+body{
+    background: white url("images/background.jpg");
+    background-size: cover;
+}
+
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-brand{
+    font-size: x-large;
+    font-family: 'Ubuntu', cursive;
+}
