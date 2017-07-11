@@ -1,6 +1,8 @@
 # Glazba
 Glazba is a web-application which lets you upload, store, listen and download all your music from the cloud. 
 Glaza allows you to manage and play your music from anywhere and in the world.
+Glazba has been made using the Django (A python based framework) and HTML. Also,Jquery CSS and Bootstrap have
+been used for styling.
 
 This is how the site looks...
 https://user-images.githubusercontent.com/29919324/28085178-8b5cf792-6698-11e7-847b-394547e077bd.png
