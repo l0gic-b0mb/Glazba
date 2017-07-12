@@ -11,7 +11,4 @@ The user can add albums of his/her own choice
 https://user-images.githubusercontent.com/29919324/28085198-943f3f5a-6698-11e7-8827-e3c38b510001.png
 
 The songs for those albums can then be added from the album section and can be played, managed accordingly
-https://user-images.githubusercontent.com/29919324/28085189-9051e776-6698-11e7-8488-bbc668fd4508.png
-
-This is the first version of the site. Everything except the music player has been implemented.
-The music player will be added shortly.
+https://user-images.githubusercontent.com/29919324/28096442-5ae28d2e-66c6-11e7-9fa9-17f268fc80c0.png
